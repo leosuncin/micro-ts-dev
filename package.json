@@ -2,7 +2,15 @@
   "name": "micro-ts-dev",
   "version": "0.1.0",
   "description": "Adds TypeScript support to micro-dev",
-  "main": "src/index.ts",
+  "keywords": [
+    "micro",
+    "development",
+    "service",
+    "microservice",
+    "serverless",
+    "API",
+    "typescript"
+  ],
   "repository": "git@github.com:tkuminecz/micro-ts-dev.git",
   "author": "Tim Kuminecz <tkuminecz@gmail.com>",
   "license": "MIT",
