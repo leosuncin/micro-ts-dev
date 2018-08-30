@@ -1,0 +1,19 @@
+{
+  "name": "micro-ts-dev",
+  "version": "0.1.0",
+  "description": "Adds TypeScript support to micro-dev",
+  "main": "src/index.ts",
+  "repository": "git@github.com:tkuminecz/micro-ts-dev.git",
+  "author": "Tim Kuminecz <tkuminecz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^7.0.0-beta.3",
+    "babel-preset-typescript": "^7.0.0-beta.3",
+    "babel-register": "^7.0.0-beta.3",
+    "micro": "^9.3.3",
+    "micro-dev": "^3.0.0"
+  },
+  "bin": {
+    "micro-ts-dev": "./bin/micro-ts-dev.js"
+  }
+}
