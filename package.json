@@ -15,5 +15,9 @@
   },
   "bin": {
     "micro-ts-dev": "./bin/micro-ts-dev.js"
-  }
+  },
+  "files": [
+    "bin/*",
+    "src/*"
+  ]
 }
